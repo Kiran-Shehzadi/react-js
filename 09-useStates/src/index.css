@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+    color: white;
+}
+html, body{
+    height: 100%;
+    width: 100%;
+}
+button{
+    padding: 10px 20px;
+    background-color: gray;
+    margin: 40px;
+}
+h1{
+    padding: 70px 80px;
+    align-items: center;
+    background-color: gray;
+    margin: 50px;
+    width: fit-content;
+}
